@@ -1,0 +1,95 @@
+P1
+Start introducing gamegifts.
+are you ok?
+let starte.
+
+
+P2
+The theme of the gamegift is “I like more games”.
+These are game gift services
+　pre-reservation.
+　　You can play the game as soon as you receive a notification after the release.
+
+　update-reservation.
+　　Receive notification after major updates are released.
+　　Users can play immediately after release.
+　　
+　gift.
+　　You can get items in the game.
+
+　Closed Beta test.
+　　Users can play unreleased games.
+　　Game developers get player feedback.
+
+　Fanpage.
+　　Game fans can talk on the bulletin board
+
+Do you have any question?
+
+
+P3
+The game gift was released in August 2013.
+The Android application has been downloaded 4 million times.
+However, the number of current active users is gradually decreasing.
+The recent MAU has about one handred thousand users.
+
+https://admin-tools.gamegift.jp/summarychart/monthly?os=android&start_month=201709&end_month=201908
+
+
+P4
+This is User attribute.
+This is Billing user.
+This is age.
+
+
+P5
+Time flows from left to right
+Closed Beta test.
+pre-reservation.
+　game released.
+update-reservation.
+
+
+P6 
+This is Closed Beta test Details.
+
+Closed Beta testはユーザにAPKの配布する必要があります。
+このAPKを配布する機能は、deploygateという外部システムと連携して実現します。
+deploygateはリリース前のAPKを簡単に配布できるサービスです。
+
+Closed Beta test requires the distribution of APKs to users.
+This APK distribution function is realized in cooperation with an external system called deploygate.
+deploygate is a service that makes it easy to distribute pre-release APKs.
+
+以下を見せる。
+https://deploygate.com/?
+
+
+
+P7
+This is also Closed Beta test Details.
+　Average number of registrations 平均参加数
+　The unit price per registration is one thousand yen. 単価
+　Percentage of feedback from the person who played the game アンケート回答率
+
+ Do you have any question?
+
+
+P8 
+This is pre-reservation Details.
+
+P9
+This is also pre-reservation Details.
+　Average number of registrations 平均予約数
+　The unit price per registration is two hadred yen. 単価
+　Average installs 平均インストール数
+　Cost Per Install is about five handred yen.     CPI
+
+
+
+
+
+ This completes the introduction of the game gift.
+
+ Do you have any question?
+
